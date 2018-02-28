@@ -38,7 +38,8 @@
     "favicon": "",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
@@ -722,7 +723,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#content4-14\" data-toolbar=\"-mbrBtnMove\">Procedimentos</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline\" href=\"index.html#form4-1l\" data-toolbar=\"-mbrBtnMove\">Contato</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/blackdress-1678x1119.jpg",
+                "image": "@PROJECT_PATH@/assets/images/blackdress-1-1678x1119.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
